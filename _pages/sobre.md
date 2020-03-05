@@ -1,5 +1,6 @@
 ----
 title: "Sobre"
+layout: single
 permalink: /sobre/
 header: 
     image: "/images/CyberpunkCity2Fixed.jpg"
