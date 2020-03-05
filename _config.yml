@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Lucielton Manoel da Silva"
-  avatar           : "/images/ProfileImage.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/ProfileImageFixed.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Portifolio de projetos"
   location         : "Recife, PE"
   email            :
