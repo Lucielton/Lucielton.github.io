@@ -2,8 +2,8 @@
 main:
   - title: "Sobre"
     url: /sobre/
-  # - title: "Learning Analytics"
-    # url: /LearningAnalytics/
+  - title: "Learning Analytics"
+    url: /LearningAnalytics/
   #- title: "Desenvolvimento Fullstack"
    # url: /DesenvolvimentoFullstack/
   # - title: Aleatoriedades
