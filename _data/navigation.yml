@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "About"
-    url: https://lucielton.github.io/about/
-  - title: "Learning Analytics"
-    url: /LearningAnalytics
-  - title: "Desenvolvimento Fullstack"
-    url: /DesenvolvimentoFullstack
+  - title: "Sobre"
+    url: /sobre/
+  # - title: "Learning Analytics"
+    # url: /LearningAnalytics/
+  #- title: "Desenvolvimento Fullstack"
+   # url: /DesenvolvimentoFullstack/
   # - title: Aleatoriedades
     # url: /Aleatoriedades
   # - title: "About"
