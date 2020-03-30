@@ -2,6 +2,7 @@
 title: "Estudando bibliotecas de visualização de dados com R"
 date: 2020-03-30
 tags: [Visualização de Dados]
+categories: [LearningAnalytics]
 excerpt: "Data Analysis, Data Visualization, R language"
 ---
 ## Visualização de dados com R

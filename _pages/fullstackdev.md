@@ -1,12 +1,12 @@
 ---
 layout: archive
-permalink: /LearningAnalytics/
-title: "Learning Analytics Posts by Tags"
+permalink: /DesenvolvimentoFullstack/
+title: "Desenvolvimento Fullstack Posts by Tags"
 author_profile: true
 ---
 
 {% include base_path %}
-{% include group-by-array collection=site.categories.LearningAnalytics field="tags" %}
+{% include group-by-array collection=site.categories.FullstackDev field="tags" %}
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
