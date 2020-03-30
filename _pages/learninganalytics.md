@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /LearningAnalytics/
-title: "Learning Anytics Posts by Tags"
+title: "Learning Analytics Posts by Tags"
 author_profile: true
 ---
 
