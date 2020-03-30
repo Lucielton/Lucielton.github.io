@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Sobre"
-    url: /sobre/
+  - title: "Currículo"
+    url: /curriculo/
   - title: "Learning Analytics"
     url: /LearningAnalytics/
-  #- title: "Desenvolvimento Fullstack"
-   # url: /DesenvolvimentoFullstack/
+  - title: "Desenvolvimento Fullstack"
+    url: /DesenvolvimentoFullstack/
   # - title: Aleatoriedades
     # url: /Aleatoriedades
   # - title: "About"
