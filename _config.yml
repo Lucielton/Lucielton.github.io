@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:lucieltonmanoel@gmail.com
+      url: https://mail.google.com/mail/?view=cm&fs=1&to=lucieltonmanoel@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
